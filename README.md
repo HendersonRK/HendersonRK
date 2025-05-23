@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!--<div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
+</div>  -->
   
 
 ### <div align="center">I'm Henderson Kettermann a backend developer</div>  
