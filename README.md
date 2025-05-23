@@ -1,4 +1,4 @@
-## Hi there I'm Henderson Kettermann! 👋
+## Hi there, I'm Henderson Kettermann! 👋
 
 
 <!--
