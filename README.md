@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/HendersonRK " target="_blank">
+<a href="https://github.com/HendersonRK" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/henderson-kettermann-896b1975/" target="_blank">
